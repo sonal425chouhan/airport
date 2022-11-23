@@ -1,0 +1,23 @@
+.d-flex {
+  display: flex
+}
+
+.justify-content {
+  justify-content: space-evenly;
+}
+
+.center {
+  text-align: center;
+}
+
+.mt-35 {
+  margin-top: 35px;
+}
+
+.bold {
+  font-weight: bold;
+}
+
+.fs-20 {
+  font-size: 20px;
+}

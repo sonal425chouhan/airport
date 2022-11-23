@@ -1,0 +1,12 @@
+.map .mapContainer {
+  position: initial !important;
+  top: 30% !important;
+}
+
+.map .mapContainer > div:first-child {
+  position: absolute!important;
+  top: 20% !important;
+  height: 80% !important;
+  overflow: hidden;
+  background-color: rgb(229, 227, 223)!important;
+}
